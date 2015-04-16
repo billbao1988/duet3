@@ -1,12 +1,12 @@
 {
-"texture":"tailParticle.png",
+"texture":"blueTail.png",
 "emitterVariance":{"x":0,"y":0}
 ,"tangentialAccelerationVariance":0
 ,"startAlpha":1
 ,"startRed":255
 ,"blendFactorSource":"one"
 ,"maxRadiusVariance":30
-,"lifespan":400
+,"lifespan":500
 ,"endAlpha":0
 ,"minRadius":20
 ,"lifespanVariance":0

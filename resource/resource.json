@@ -1,7 +1,7 @@
 {
 	"groups":[
 	{
-		"keys":"checkbox_select_disabled_png,checkbox_select_normal_png,checkbox_unselect_disabled_png,checkbox_unselect_normal_png,hslider_fill_png,hslider_thumb_png,hslider_track_png,button_disabled_png,button_down_png,button_normal_png,panel_back_png,progressbar_fill_png,progressbar_track_png,radiobutton_select_disabled_png,radiobutton_select_normal_png,radiobutton_unselect_disabled_png,radiobutton_unselect_normal_png,togglebutton_disabled_png,togglebutton_normal_png,togglebutton_selected_png,tree_back_png,tree_btndisabled_png,tree_btndisabledselect_png,tree_btndown_png,tree_btndownselect_png,tree_btnup_png,tree_btnupselect_png,vslider_fill_png,vslider_thumb_png,vslider_track_png,onoffbutton_off_label_png,onoffbutton_off_thumb_png,onoffbutton_off_track_png,onoffbutton_on_label_png,onoffbutton_on_thumb_png,onoffbutton_on_track_png,tree_icon_dir_png,tree_icon_file_png,panel_headeback_png,bgImage,app_list_item_cutlline_png,app_list_item_select_png,app_list_item_up_png,dropdownlist_arrow_down_png,dropdownlist_arrow_up_png,DropDownListButtonSkin_down_png,DropDownListButtonSkin_up_png,closebtn_down_png,closebtn_up_png,checkbox_select_over_png,checkbox_unselect_over_png,radiobutton_select_over_png,radiobutton_unselect_over_png,btnStart,p1,p2,b1,b2,b3,logo,tailParticle_json,tailParticle_png,acceptBtn,alertBg,cancelBtn,circle,s_hit,s_point,s_wing,hitParticle_json,close_dialog,level_1,level_2,level_3,list_item,medal_1,medal_2,medal_3,rank,ranking_bg,user_photo,top",
+		"keys":"checkbox_select_disabled_png,checkbox_select_normal_png,checkbox_unselect_disabled_png,checkbox_unselect_normal_png,hslider_fill_png,hslider_thumb_png,hslider_track_png,button_disabled_png,button_down_png,button_normal_png,panel_back_png,progressbar_fill_png,progressbar_track_png,radiobutton_select_disabled_png,radiobutton_select_normal_png,radiobutton_unselect_disabled_png,radiobutton_unselect_normal_png,togglebutton_disabled_png,togglebutton_normal_png,togglebutton_selected_png,tree_back_png,tree_btndisabled_png,tree_btndisabledselect_png,tree_btndown_png,tree_btndownselect_png,tree_btnup_png,tree_btnupselect_png,vslider_fill_png,vslider_thumb_png,vslider_track_png,onoffbutton_off_label_png,onoffbutton_off_thumb_png,onoffbutton_off_track_png,onoffbutton_on_label_png,onoffbutton_on_thumb_png,onoffbutton_on_track_png,tree_icon_dir_png,tree_icon_file_png,panel_headeback_png,app_list_item_cutlline_png,app_list_item_select_png,app_list_item_up_png,dropdownlist_arrow_down_png,dropdownlist_arrow_up_png,DropDownListButtonSkin_down_png,DropDownListButtonSkin_up_png,closebtn_down_png,closebtn_up_png,checkbox_select_over_png,checkbox_unselect_over_png,radiobutton_select_over_png,radiobutton_unselect_over_png,p1,p2,b1,b2,b3,circle,s_hit,s_wing,close_dialog,level_1,level_2,level_3,list_item,medal_1,medal_2,medal_3,rank,ranking_bg,user_photo,gameover_bg,new_record,title,bg,btn_back_00,btn_back_01,btn_pause_00,btn_pause_01,btn_play_00,btn_play_01,btn_rank_00,btn_rank_01,btn_restart_00,btn_restart_01,list_item_selected,hslider_fill,blueTail_png,blueTailParticle_json,redTail_png,redTailParticle_json,redHitParticle_json,blueHitParticle_json",
 		"name":"preload"
 	}],
 	"resources":[
@@ -252,11 +252,6 @@
 		"url":"assets/simple/TitleWindow/closebtn_up.png"
 	},
 	{
-		"name":"bgImage",
-		"type":"image",
-		"url":"assets/bg.jpg"
-	},
-	{
 		"name":"app_list_item_cutlline_png",
 		"type":"image",
 		"url":"assets/simple/ItemRenderer/app_list_item_cutlline.png"
@@ -326,11 +321,6 @@
 		"url":"assets/simple/TextInput/textbox.png"
 	},
 	{
-		"name":"btnStart",
-		"type":"image",
-		"url":"assets/btn_start.png"
-	},
-	{
 		"name":"p1",
 		"type":"image",
 		"url":"assets/p1.png"
@@ -356,37 +346,6 @@
 		"url":"assets/b3.png"
 	},
 	{
-		"name":"logo",
-		"type":"image",
-		"url":"assets/logo.png"
-	},
-	{
-		"name":"tailParticle_json",
-		"type":"json",
-		"url":"assets/particle/tailParticle.json"
-	},
-	{
-		"name":"tailParticle_png",
-		"type":"image",
-		"url":"assets/particle/tailParticle.png"
-	},
-	{
-		"name":"acceptBtn",
-		"type":"image",
-		"url":"assets/acceptBtn.png"
-	},
-	{
-		"name":"alertBg",
-		"scale9grid":"57,42,258,158",
-		"type":"image",
-		"url":"assets/alertBg.png"
-	},
-	{
-		"name":"cancelBtn",
-		"type":"image",
-		"url":"assets/cancelBtn.png"
-	},
-	{
 		"name":"circle",
 		"type":"image",
 		"url":"assets/circle.png"
@@ -397,19 +356,9 @@
 		"url":"assets/sound/s_hit.mp3"
 	},
 	{
-		"name":"s_point",
-		"type":"sound",
-		"url":"assets/sound/s_point.mp3"
-	},
-	{
 		"name":"s_wing",
 		"type":"sound",
 		"url":"assets/sound/s_wing.mp3"
-	},
-	{
-		"name":"hitParticle_json",
-		"type":"json",
-		"url":"assets/particle/hitParticle.json"
 	},
 	{
 		"name":"close_dialog",
@@ -462,7 +411,7 @@
 	},
 	{
 		"name":"ranking_bg",
-		"scale9grid":"39,98,479,37",
+		"scale9grid":"39,138,479,111",
 		"type":"image",
 		"url":"assets/ranking_bg.png"
 	},
@@ -472,8 +421,115 @@
 		"url":"assets/user_photo.png"
 	},
 	{
-		"name":"top",
+		"name":"gameover_bg",
+		"scale9grid":"49,38,475,29",
 		"type":"image",
-		"url":"assets/top.png"
+		"url":"assets/gameover_bg.png"
+	},
+	{
+		"name":"new_record",
+		"type":"image",
+		"url":"assets/new_record.png"
+	},
+	{
+		"name":"title",
+		"type":"image",
+		"url":"assets/title.png"
+	},
+	{
+		"name":"bg",
+		"type":"image",
+		"url":"assets/bg.png"
+	},
+	{
+		"name":"btn_back_00",
+		"type":"image",
+		"url":"assets/btn_back_00.png"
+	},
+	{
+		"name":"btn_back_01",
+		"type":"image",
+		"url":"assets/btn_back_01.png"
+	},
+	{
+		"name":"btn_pause_00",
+		"type":"image",
+		"url":"assets/btn_pause_00.png"
+	},
+	{
+		"name":"btn_pause_01",
+		"type":"image",
+		"url":"assets/btn_pause_01.png"
+	},
+	{
+		"name":"btn_play_00",
+		"type":"image",
+		"url":"assets/btn_play_00.png"
+	},
+	{
+		"name":"btn_play_01",
+		"type":"image",
+		"url":"assets/btn_play_01.png"
+	},
+	{
+		"name":"btn_rank_00",
+		"type":"image",
+		"url":"assets/btn_rank_00.png"
+	},
+	{
+		"name":"btn_rank_01",
+		"type":"image",
+		"url":"assets/btn_rank_01.png"
+	},
+	{
+		"name":"btn_restart_00",
+		"type":"image",
+		"url":"assets/btn_restart_00.png"
+	},
+	{
+		"name":"btn_restart_01",
+		"type":"image",
+		"url":"assets/btn_restart_01.png"
+	},
+	{
+		"name":"list_item_selected",
+		"scale9grid":"8,8,50,50",
+		"type":"image",
+		"url":"assets/list_item_selected.png"
+	},
+	{
+		"name":"hslider_fill",
+		"type":"image",
+		"url":"assets/hslider_fill.png"
+	},
+	{
+		"name":"blueTail_png",
+		"type":"image",
+		"url":"assets/particle/blueTail.png"
+	},
+	{
+		"name":"blueTailParticle_json",
+		"type":"json",
+		"url":"assets/particle/blueTailParticle.json"
+	},
+	{
+		"name":"redTail_png",
+		"type":"image",
+		"url":"assets/particle/redTail.png"
+	},
+	{
+		"name":"redTailParticle_json",
+		"type":"json",
+		"url":"assets/particle/redTailParticle.json"
+	},
+	{
+		"name":"redHitParticle_json",
+		"type":"json",
+		"url":"assets/particle/redHitParticle.json"
+	},
+	{
+		"name":"blueHitParticle_json",
+		"type":"json",
+		"url":"assets/particle/blueHitParticle.json"
 	}]
 }
